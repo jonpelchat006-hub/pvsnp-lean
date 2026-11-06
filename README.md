@@ -127,3 +127,8 @@ Every headline theorem depends only on Lean's standard axioms
    theorem.
 5. **Bigger lower bounds**, in rough order of difficulty: monotone circuit
    lower bound for CLIQUE (Razborov), PARITY ∉ AC⁰ (Håstad's switching lemma).
+
+## License
+
+MIT (see `LICENSE`). This covers the Lean code, the experiment code and
+data, and the write-ups.
