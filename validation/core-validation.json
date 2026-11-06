@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-29",
+  "compiler": "Lean (version 4.33.1, x86_64-w64-windows-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "pinned_toolchain": "leanprover/lean4:v4.35.0",
+  "pinned_version_checked": false,
+  "mathlib_checked": false,
+  "checks": {
+    "core-build": {
+      "args": [
+        "build",
+        "--wfail"
+      ],
+      "exit_code": 0
+    },
+    "core-audit": {
+      "args": [
+        "env",
+        "lean",
+        "Audit.lean"
+      ],
+      "exit_code": 0,
+      "allowed_axioms_only": true,
+      "audited_declarations": 159
+    }
+  },
+  "recovered_modules": [
+    "Representation",
+    "Crossings",
+    "Reciprocal",
+    "CayleyDickson",
+    "ClosureUnit",
+    "CountingWaves",
+    "RepresentationRefinement",
+    "RationalClosure",
+    "CutFraction",
+    "BinaryRefinement",
+    "ClosureCutBridge",
+    "FutureQuotient",
+    "FiniteState",
+    "GraphBoundary"
+  ],
+  "recovered_named_theorems": 139,
+  "source_sha256": {
+    "PvsNP.lean": "e2d5f9c576f86cc86ca4e031bace6a6319267d374b6cadd7a30597c276386856",
+    "Audit.lean": "ea6e72b3c73b0f86968558b481a1e8f7b60432fc9976263b3ecd790193a4c66a",
+    "PvsNP\\Barrier.lean": "9b97f9eb9cd268cb798d8404f9d407a5ae1aa31ca308e441f8ef3ba1aefc93a2",
+    "PvsNP\\BinaryRefinement.lean": "e203a457f68996c3909d1dd4202afb48d154ce012ac05f26981a37579a664e56",
+    "PvsNP\\CayleyDickson.lean": "21d5e06c554a52b8fa138a6b4ebb842eeebfaa753ea155095563c57ae2f72f8d",
+    "PvsNP\\Classes.lean": "7f3e99c1da77290dec0b3ea91b0d12dac919df666ca0e916a01b8711e24dc4cf",
+    "PvsNP\\ClosureCutBridge.lean": "1ee6c0e5deefb612077337474af2c8821f0d2852317c32d9bb0f1ad0aca7e4c0",
+    "PvsNP\\ClosureUnit.lean": "0a9ec58bfbffeb524ab3ea6d9ba848c734bab44226b76316024d946a224d3e94",
+    "PvsNP\\CountingWaves.lean": "22b04ae77cd2ce3595280f85063f22fa1feb03a130e0305806b0aeef0b7acd00",
+    "PvsNP\\Crossings.lean": "ad2edfd1d3940df6050e92e866d9a76b3302c4d51b3a76a5895a84a9975bd051",
+    "PvsNP\\CutFraction.lean": "18bfae9b2fa6682e81b6a15b45f13dd32462023bf87ead1c82623d42846fb02a",
+    "PvsNP\\DecisionTree.lean": "f3df30cc7b5c119eb544ef11eef813d5d5b28146384a17c31232061980830d1e",
+    "PvsNP\\FiniteState.lean": "4d068b56a7c1177c04296134e18289dcb19a1c1b9cdea87a9ae344c6f725c27b",
+    "PvsNP\\FutureQuotient.lean": "c395003afa6067834d38880087a6697bc3cde4717ed1173fe6263b46e16d4294",
+    "PvsNP\\GraphBoundary.lean": "3829fb7c7247b68664d2ed5e2f441034b98787215ff8b5eb383f1433e4593906",
+    "PvsNP\\Orientations.lean": "688fb3e85dbbb325c2e1b823cb441e7379453407c19d1bca095a50f4c3f97e1e",
+    "PvsNP\\Poly.lean": "9c93ace381b6d644e8835ef6fa13e347a373dca827bc82c0cd9cd11f80a21480",
+    "PvsNP\\RationalClosure.lean": "6d744f7d05dbee1bce8f1ff702fb31a4db91b460446a594ab131db92cd3ea943",
+    "PvsNP\\Reciprocal.lean": "7f70de11ea300e5292349a56f3c67aa1c64f19e9cd3aa0d76a79c05921f3bdbe",
+    "PvsNP\\Representation.lean": "2b477aba72b11c390b0de0fce53f416ad72bcc8a5388ff4ac7e17ca83cb490e6",
+    "PvsNP\\RepresentationRefinement.lean": "f4ed74ba2d58676b3526b2f5c3d8018e29ccb7796796c3ea6c9e596275355d93",
+    "PvsNP\\SAT.lean": "b14e23e15302a82c90fcb6ca371d95ae389a6e8117c3667a68deb1e93edb53f2"
+  }
+}

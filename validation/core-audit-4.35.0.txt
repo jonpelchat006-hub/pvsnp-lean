@@ -1,0 +1,185 @@
+'PvsNP.poly_comp_le' depends on axioms: [propext, Quot.sound]
+'PvsNP.PolyBound.comp' depends on axioms: [propext, Quot.sound]
+'PvsNP.Model.P_subset_NP' depends on axioms: [propext]
+'PvsNP.Model.reduces_trans' does not depend on any axioms
+'PvsNP.Model.InNP.of_reduces' does not depend on any axioms
+'PvsNP.Model.NPComplete.inP_iff_PeqNP' depends on axioms: [propext]
+'PvsNP.Model.NPeqCoNP_of_PeqNP' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Model.NPComplete_of_PeqNP' depends on axioms: [propext]
+'PvsNP.closure_axioms_do_not_decide_PvsNP' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.SAT.sat_iff_certificate' depends on axioms: [propext, Quot.sound]
+'PvsNP.SAT.sat_iff_bruteForce' depends on axioms: [propext, Quot.sound]
+'PvsNP.DecisionTree.or_complexity_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Orientations.balanced_iff_bruteForce' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Orientations.balanced_cons_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Orientations.balanced_iff_search' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Orientations.table_length' depends on axioms: [propext, Quot.sound]
+'PvsNP.Orientations.balanced_iff_grid' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Orientations.merging_with_small_pieces' depends on axioms: [propext, Quot.sound]
+'PvsNP.Orientations.no_merging_with_powers' depends on axioms: [propext, Quot.sound]
+'PvsNP.Orientations.balanced_iff_meet' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Representation.equal_answers_of_equal_codes' does not depend on any axioms
+'PvsNP.Representation.collision_obstructs_recovery' does not depend on any axioms
+'PvsNP.Representation.postprocessing_preserves_collision' does not depend on any axioms
+'PvsNP.Representation.recoverable_of_refines' does not depend on any axioms
+'PvsNP.Representation.pair_refines' does not depend on any axioms
+'PvsNP.Representation.recoverable_from_pair' does not depend on any axioms
+'PvsNP.Representation.injective_of_reconstructible' does not depend on any axioms
+'PvsNP.Representation.border_collision' does not depend on any axioms
+'PvsNP.Representation.up_pass_not_recoverable' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Representation.up_pass_recoverable_from_coordinates' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Representation.sum_recoverable' does not depend on any axioms
+'PvsNP.Crossings.net_eq_end_sub_start' depends on axioms: [propext, Quot.sound]
+'PvsNP.Crossings.net_three_values' depends on axioms: [propext, Quot.sound]
+'PvsNP.Crossings.net_bound' depends on axioms: [propext, Quot.sound]
+'PvsNP.Crossings.net_zero_of_same_side' depends on axioms: [propext, Quot.sound]
+'PvsNP.Crossings.net_zero_iff_same_side' depends on axioms: [propext, Quot.sound]
+'PvsNP.Reciprocal.reciprocal_involution' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.inv_gt_one_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.inv_lt_one_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.partial_to_multiple' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.multiple_to_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.partial_iff_inverse_multiple' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.inverse_partial_iff_multiple' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.positive_partition' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.positive_fixed_point' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Reciprocal.zero_fixed_point' depends on axioms: [propext, Quot.sound]
+'PvsNP.CayleyDickson.witness_product_zero' does not depend on any axioms
+'PvsNP.CayleyDickson.leftWitness_nonzero' does not depend on any axioms
+'PvsNP.CayleyDickson.rightWitness_nonzero' does not depend on any axioms
+'PvsNP.CayleyDickson.witness_norms' does not depend on any axioms
+'PvsNP.CayleyDickson.nonzero_zero_product' does not depend on any axioms
+'PvsNP.CayleyDickson.left_cancellation_fails' does not depend on any axioms
+'PvsNP.CayleyDickson.normSq_not_multiplicative' does not depend on any axioms
+'PvsNP.CayleyDickson.nonzero_not_recoverable_from_product' does not depend on any axioms
+'PvsNP.CayleyDickson.operand_recoverable_from_record' does not depend on any axioms
+'PvsNP.ClosureUnit.successor_root' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.natural_root_iff_pronic' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.discriminant_identity' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.square_discriminant_of_pronic' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.pronic_of_square_discriminant' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.square_discriminant_iff_pronic' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.one_not_pronic' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.unit_one_no_natural_root' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureUnit.zero_pronic' does not depend on any axioms
+'PvsNP.ClosureUnit.two_pronic' does not depend on any axioms
+'PvsNP.ClosureUnit.six_pronic' does not depend on any axioms
+'PvsNP.CountingWaves.mem_withoutThrees' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CountingWaves.mem_triples' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CountingWaves.withoutThrees_length' depends on axioms: [propext]
+'PvsNP.CountingWaves.withoutThrees_nodup' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CountingWaves.triples_nodup' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CountingWaves.length_add_six' depends on axioms: [propext, Quot.sound]
+'PvsNP.CountingWaves.closedCount_add_six' depends on axioms: [propext, Quot.sound]
+'PvsNP.CountingWaves.length_eq_closedCount' depends on axioms: [propext, Quot.sound]
+'PvsNP.CountingWaves.certified_enumeration' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Representation.refines_refl' does not depend on any axioms
+'PvsNP.Representation.refines_trans' does not depend on any axioms
+'PvsNP.Representation.recoverable_iff_fiber_constant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Representation.equal_codes_after_actions' does not depend on any axioms
+'PvsNP.Representation.equal_future_answers' does not depend on any axioms
+'PvsNP.Representation.current_answer_insufficient' does not depend on any axioms
+'PvsNP.Representation.signed_sum_transition_compatible' does not depend on any axioms
+'PvsNP.Representation.equal_totals_same_future' does not depend on any axioms
+'PvsNP.RationalClosure.den_add_int_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.root_den_eq_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.eq_int_of_den_eq_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.root_eq_int' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.pronic_of_int_root' depends on axioms: [propext, Quot.sound]
+'PvsNP.RationalClosure.rational_root_iff_pronic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.rational_root_iff_natural_root' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.rational_square_iff_natural_square' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.RationalClosure.rational_square_discriminant_iff_pronic' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PvsNP.RationalClosure.unit_one_no_rational_root' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.denominator_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_lt_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_in_unit_interval' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.ratio_fraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.ratio_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_ratio' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_injective' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.closure_equation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.closure_ratio' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.recovered_closure_fraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_eq_half_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_lt_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.fraction_lt_half_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.half_lt_fraction_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.closure_equation_in_fraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.CutFraction.unit_one_equation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.BinaryRefinement.regions_positive' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.regions_eq_cuts_add_one' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.cuts_eq_regions_sub_one' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.complete_perfect' does not depend on any axioms
+'PvsNP.BinaryRefinement.depth_of_perfect' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.regions_of_perfect' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.cuts_of_perfect' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.depth_complete' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.regions_complete' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.cuts_complete' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.regions_le_pow_depth' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.regions_le_pow_of_depth_le' depends on axioms: [propext, Quot.sound]
+'PvsNP.BinaryRefinement.cuts_le_pow_depth_sub_one' depends on axioms: [propext, Quot.sound]
+'PvsNP.ClosureCutBridge.rational_cut_iff_pronic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.ClosureCutBridge.no_rational_golden_cut' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.ClosureCutBridge.midpoint_zero_parameter' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FutureQuotient.futureEq_refl' does not depend on any axioms
+'PvsNP.FutureQuotient.futureEq_symm' does not depend on any axioms
+'PvsNP.FutureQuotient.futureEq_trans' does not depend on any axioms
+'PvsNP.FutureQuotient.futureEq_task' does not depend on any axioms
+'PvsNP.FutureQuotient.futureEq_step' does not depend on any axioms
+'PvsNP.FutureQuotient.code_eq_iff_futureEq' depends on axioms: [propext, Quot.sound]
+'PvsNP.FutureQuotient.output_code' does not depend on any axioms
+'PvsNP.FutureQuotient.advance_code' depends on axioms: [Quot.sound]
+'PvsNP.FutureQuotient.task_recoverable' does not depend on any axioms
+'PvsNP.FutureQuotient.code_transition_compatible' depends on axioms: [propext, Quot.sound]
+'PvsNP.FutureQuotient.safe_encoding_refines_future' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.injective_of_future_distinguishable' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.fin_le_of_injective' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.finite_state_capacity_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.integer_counter_distinguishable' depends on axioms: [propext, Quot.sound]
+'PvsNP.FiniteState.no_finite_exact_counter' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.equality_message_injective' depends on axioms: [propext]
+'PvsNP.FiniteState.equality_message_capacity' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.equality_protocol_iff_capacity' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.FiniteState.equality_bits_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.GraphBoundary.crosses_iff' depends on axioms: [propext]
+'PvsNP.GraphBoundary.mem_boundary_iff' depends on axioms: [propext]
+'PvsNP.GraphBoundary.crosses_reverse' does not depend on any axioms
+'PvsNP.GraphBoundary.crosses_complement' does not depend on any axioms
+'PvsNP.GraphBoundary.boundary_complement' depends on axioms: [propext, Quot.sound]
+'PvsNP.GraphBoundary.same_labels_of_no_path_boundary' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.GraphBoundary.path_boundary_nonempty_of_separated_endpoints' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PvsNP.GraphBoundary.graph_boundary_of_path_boundary' depends on axioms: [propext]
+'PvsNP.GraphBoundary.graph_boundary_nonempty_of_separated_walk' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PvsNP.GraphBoundary.crosses_of_factor' depends on axioms: [propext]
+'PvsNP.GraphBoundary.boundary_map_of_factor' depends on axioms: [propext]
+'PvsNP.GraphBoundary.opposite_sign_edge_without_zero' does not depend on any axioms
+'PvsNP.Resolution.signedSum_split' depends on axioms: [propext, Quot.sound]
+'PvsNP.Resolution.fine_sum_le' depends on axioms: [propext, Quot.sound]
+'PvsNP.Resolution.coarse_grid_length' depends on axioms: [propext, Quot.sound]
+'PvsNP.Resolution.exact_seen_near' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Resolution.near_seen_close' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Resolution.rounding_gap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Resolution.rounding_gap_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PvsNP.Resolution.fine_one' depends on axioms: [propext]
+'PvsNP.Table.parity_minority' does not depend on any axioms
+'PvsNP.Table.parity_keeps_minority' does not depend on any axioms
+'PvsNP.Table.value_majority' does not depend on any axioms
+'PvsNP.Table.width_two_keeps_majority' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_zero' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_one' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_both' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_either' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_majority' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_minority' depends on axioms: [propext]
+'PvsNP.Table.nae3_breaks_all' depends on axioms: [propext]
+'PvsNP.Table.table' depends on axioms: [propext]

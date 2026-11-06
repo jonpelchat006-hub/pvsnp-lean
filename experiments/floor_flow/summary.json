@@ -1,0 +1,267 @@
+{
+  "seed": 20261029,
+  "instances_per_size": 30,
+  "sizes": [
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40
+  ],
+  "summary": {
+    "16": {
+      "floor": {
+        "median": 4.0,
+        "median_bits_above_wall": 2.321928094887362
+      },
+      "karmarkar_karp": {
+        "median": 102.0,
+        "median_bits_above_wall": 6.6862285002089585
+      },
+      "greedy": {
+        "median": 2220.5,
+        "median_bits_above_wall": 11.117299095050633
+      },
+      "flow_even": {
+        "median": 18720.0,
+        "median_bits_above_wall": 14.19206315147336
+      },
+      "flow_sized": {
+        "median": 21721.5,
+        "median_bits_above_wall": 14.406282933700485
+      },
+      "flow_sized_best_of_n": {
+        "median": 1248.5,
+        "median_bits_above_wall": 10.287109196320495
+      },
+      "perfect_partitions": 2,
+      "median_total": 515509.0,
+      "median_smallest_piece": 3263.0,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 0,
+      "sized_median_last_rank": 8.0,
+      "median_angle_to_closure_deg": {
+        "even": 49.790004850313444,
+        "sized": 60.57319902695543
+      }
+    },
+    "20": {
+      "floor": {
+        "median": 3.5,
+        "median_bits_above_wall": 2.160964047443681
+      },
+      "karmarkar_karp": {
+        "median": 828.5,
+        "median_bits_above_wall": 9.692377122206016
+      },
+      "greedy": {
+        "median": 19424.5,
+        "median_bits_above_wall": 14.24564202128807
+      },
+      "flow_even": {
+        "median": 323231.5,
+        "median_bits_above_wall": 18.29655447983283
+      },
+      "flow_sized": {
+        "median": 255810.0,
+        "median_bits_above_wall": 17.914016458951256
+      },
+      "flow_sized_best_of_n": {
+        "median": 10610.5,
+        "median_bits_above_wall": 13.369791042947186
+      },
+      "perfect_partitions": 3,
+      "median_total": 10139183.0,
+      "median_smallest_piece": 31146.0,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 2,
+      "sized_median_last_rank": 10.0,
+      "median_angle_to_closure_deg": {
+        "even": 62.61741815874422,
+        "sized": 65.50952095196541
+      }
+    },
+    "24": {
+      "floor": {
+        "median": 6.5,
+        "median_bits_above_wall": 2.903677461028802
+      },
+      "karmarkar_karp": {
+        "median": 4896.5,
+        "median_bits_above_wall": 12.257475647962167
+      },
+      "greedy": {
+        "median": 311569.0,
+        "median_bits_above_wall": 18.248150483547384
+      },
+      "flow_even": {
+        "median": 5467093.5,
+        "median_bits_above_wall": 22.38218201433081
+      },
+      "flow_sized": {
+        "median": 3048742.0,
+        "median_bits_above_wall": 21.530729453626783
+      },
+      "flow_sized_best_of_n": {
+        "median": 193744.5,
+        "median_bits_above_wall": 17.563801839216715
+      },
+      "perfect_partitions": 1,
+      "median_total": 202033302.0,
+      "median_smallest_piece": 579330.5,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 2,
+      "sized_median_last_rank": 15.0,
+      "median_angle_to_closure_deg": {
+        "even": 58.77760080362925,
+        "sized": 69.6149187005175
+      }
+    },
+    "28": {
+      "floor": {
+        "median": 4.0,
+        "median_bits_above_wall": 2.292481250360578
+      },
+      "karmarkar_karp": {
+        "median": 36437.0,
+        "median_bits_above_wall": 15.153080967357099
+      },
+      "greedy": {
+        "median": 5568570.5,
+        "median_bits_above_wall": 22.40887398640843
+      },
+      "flow_even": {
+        "median": 85115887.0,
+        "median_bits_above_wall": 26.341306402053036
+      },
+      "flow_sized": {
+        "median": 47961884.0,
+        "median_bits_above_wall": 25.515194569131147
+      },
+      "flow_sized_best_of_n": {
+        "median": 1614603.0,
+        "median_bits_above_wall": 20.59921159219224
+      },
+      "perfect_partitions": 2,
+      "median_total": 3543020347.5,
+      "median_smallest_piece": 5013118.5,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 1,
+      "sized_median_last_rank": 21.0,
+      "median_angle_to_closure_deg": {
+        "even": 66.2681008783654,
+        "sized": 65.85172378220994
+      }
+    },
+    "32": {
+      "floor": {
+        "median": 5.5,
+        "median_bits_above_wall": 2.69615871138938
+      },
+      "karmarkar_karp": {
+        "median": 294517.5,
+        "median_bits_above_wall": 18.167064349084526
+      },
+      "greedy": {
+        "median": 47018202.0,
+        "median_bits_above_wall": 25.48363775935568
+      },
+      "flow_even": {
+        "median": 1448871664.5,
+        "median_bits_above_wall": 30.43208407339717
+      },
+      "flow_sized": {
+        "median": 645036785.5,
+        "median_bits_above_wall": 29.251546390169196
+      },
+      "flow_sized_best_of_n": {
+        "median": 15091117.5,
+        "median_bits_above_wall": 23.845492155923807
+      },
+      "perfect_partitions": 1,
+      "median_total": 68079507087.0,
+      "median_smallest_piece": 74154875.5,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 1,
+      "sized_median_last_rank": 19.0,
+      "median_angle_to_closure_deg": {
+        "even": 59.406069021780894,
+        "sized": 58.49444700746631
+      }
+    },
+    "36": {
+      "floor": {
+        "median": 6.0,
+        "median_bits_above_wall": 2.807354922057604
+      },
+      "karmarkar_karp": {
+        "median": 3320902.5,
+        "median_bits_above_wall": 21.65658257630636
+      },
+      "greedy": {
+        "median": 628975942.0,
+        "median_bits_above_wall": 29.212006709079986
+      },
+      "flow_even": {
+        "median": 27202199573.0,
+        "median_bits_above_wall": 34.662348751053486
+      },
+      "flow_sized": {
+        "median": 10081046523.5,
+        "median_bits_above_wall": 33.23057154130905
+      },
+      "flow_sized_best_of_n": {
+        "median": 348852211.5,
+        "median_bits_above_wall": 28.375158656788077
+      },
+      "perfect_partitions": 1,
+      "median_total": 1215008195403.5,
+      "median_smallest_piece": 1369363299.5,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 2,
+      "sized_median_last_rank": 28.5,
+      "median_angle_to_closure_deg": {
+        "even": 64.91953941627158,
+        "sized": 68.77680450442534
+      }
+    },
+    "40": {
+      "floor": {
+        "median": 7.0,
+        "median_bits_above_wall": 3.0
+      },
+      "karmarkar_karp": {
+        "median": 21248627.0,
+        "median_bits_above_wall": 24.340861215892847
+      },
+      "greedy": {
+        "median": 11255054816.5,
+        "median_bits_above_wall": 33.385612190037676
+      },
+      "flow_even": {
+        "median": 459517298244.0,
+        "median_bits_above_wall": 38.74029126242985
+      },
+      "flow_sized": {
+        "median": 103129909316.0,
+        "median_bits_above_wall": 36.585447634586544
+      },
+      "flow_sized_best_of_n": {
+        "median": 5843276399.5,
+        "median_bits_above_wall": 32.44375652814555
+      },
+      "perfect_partitions": 2,
+      "median_total": 21935995992886.5,
+      "median_smallest_piece": 27694470223.0,
+      "even_last_is_smallest": 0,
+      "sized_last_is_smallest": 1,
+      "sized_median_last_rank": 32.0,
+      "median_angle_to_closure_deg": {
+        "even": 59.78246405080241,
+        "sized": 66.27898210409467
+      }
+    }
+  }
+}

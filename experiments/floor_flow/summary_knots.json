@@ -1,0 +1,2958 @@
+{
+ "rounds_ladder": {
+  "carries | cadical | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.018,
+     "and_gates": 1055
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.027,
+     "and_gates": 2549
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.047,
+     "and_gates": 4063
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.05,
+     "and_gates": 5566
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6076
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "carries | cadical | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.019,
+     "and_gates": 1121
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.026,
+     "and_gates": 2623
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.046,
+     "and_gates": 4121
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.057,
+     "and_gates": 5620
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6154
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "carries | cryptominisat | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 1055
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.014,
+     "and_gates": 2549
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.021,
+     "and_gates": 4063
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 5566
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6076
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "carries | cryptominisat | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.008,
+     "and_gates": 1121
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.014,
+     "and_gates": 2623
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.026,
+     "and_gates": 4121
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.027,
+     "and_gates": 5620
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6154
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "chmaj | cadical | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.022,
+     "and_gates": 160
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.018,
+     "and_gates": 544
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.024,
+     "and_gates": 928
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 1312
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1408
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "chmaj | cadical | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.021,
+     "and_gates": 160
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.027,
+     "and_gates": 544
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.033,
+     "and_gates": 928
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.04,
+     "and_gates": 1312
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1408
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "chmaj | cryptominisat | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 160
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 544
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": 928
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 1312
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1408
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "chmaj | cryptominisat | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 160
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": 544
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.012,
+     "and_gates": 928
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.015,
+     "and_gates": 1312
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1408
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "full | cadical | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.03,
+     "and_gates": 1181
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.045,
+     "and_gates": 3072
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.061,
+     "and_gates": 4948
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.077,
+     "and_gates": 6830
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7470
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "full | cadical | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.023,
+     "and_gates": 1249
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.032,
+     "and_gates": 3139
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.048,
+     "and_gates": 5022
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.066,
+     "and_gates": 6908
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7538
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "full | cryptominisat | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.008,
+     "and_gates": 1181
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.017,
+     "and_gates": 3072
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 4948
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.038,
+     "and_gates": 6830
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7470
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "full | cryptominisat | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 1249
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 3139
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 5022
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.039,
+     "and_gates": 6908
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7538
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "salt | cadical | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.018,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.024,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.04,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.041,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "salt | cadical | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.026,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.032,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.041,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.051,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 13.411,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 16
+  },
+  "salt | cryptominisat | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.013,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.193,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 17.576,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 18
+  },
+  "salt | cryptominisat | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 7.027,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 14.8,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 12.267,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 20.508,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 20
+  },
+  "salt | gaussian elimination | 32 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.002,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "48": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "64": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 64
+  },
+  "salt | gaussian elimination | 64 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "48": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": 0
+    },
+    "64": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.012,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 64
+  },
+  "salt | gaussian elimination | 128 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.007,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.008,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.01,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.012,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.016,
+     "and_gates": 0
+    },
+    "48": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.022,
+     "and_gates": 0
+    },
+    "64": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 64
+  },
+  "salt | gaussian elimination | 256 bits": {
+   "per_round": {
+    "4": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": 0
+    },
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.01,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.01,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": 0
+    },
+    "17": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.023,
+     "and_gates": 0
+    },
+    "18": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.015,
+     "and_gates": 0
+    },
+    "19": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.015,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.016,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.018,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.024,
+     "and_gates": 0
+    },
+    "48": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.034,
+     "and_gates": 0
+    },
+    "64": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.043,
+     "and_gates": 0
+    }
+   },
+   "deepest_all_solved": 64
+  }
+ },
+ "bits_ladder": {
+  "carries | brute force | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.152,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.676,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "carries | cadical | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.166,
+     "and_gates": 5777
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.184,
+     "and_gates": 5832
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 19.232,
+     "and_gates": 5884
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 5921
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "carries | cryptominisat | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.271,
+     "and_gates": 5777
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.741,
+     "and_gates": 5832
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 7.809,
+     "and_gates": 5884
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 5921
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | brute force | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.0,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.244,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.184,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 23.494,
+     "and_gates": null
+    },
+    "32": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "chmaj | cadical | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.031,
+     "and_gates": 1315
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.034,
+     "and_gates": 1344
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.036,
+     "and_gates": 1360
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.132,
+     "and_gates": 1372
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.431,
+     "and_gates": 1384
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.323,
+     "and_gates": 1396
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.568,
+     "and_gates": 1408
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "chmaj | cryptominisat | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.044,
+     "and_gates": 1315
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.086,
+     "and_gates": 1344
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.094,
+     "and_gates": 1360
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.259,
+     "and_gates": 1372
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.622,
+     "and_gates": 1384
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 5.191,
+     "and_gates": 1396
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 7.95,
+     "and_gates": 1408
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "full | brute force | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.005,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.009,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.161,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.504,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "full | cadical | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.132,
+     "and_gates": 7100
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.244,
+     "and_gates": 7146
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 8.702,
+     "and_gates": 7234
+    },
+    "20": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 11.421,
+     "and_gates": 7294
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7334
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "full | cryptominisat | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.332,
+     "and_gates": 7100
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.768,
+     "and_gates": 7146
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7234
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | brute force | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.0,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.01,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.128,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.347,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 14.173,
+     "and_gates": null
+    },
+    "32": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 28
+  },
+  "salt | cadical | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.028,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.033,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.049,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.234,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.296,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.397,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.899,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "salt | cryptominisat | r=17": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.239,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.327,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.287,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.164,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.124,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.116,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.109,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "carries | cadical | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.134,
+     "and_gates": 6156
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.305,
+     "and_gates": 6205
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.351,
+     "and_gates": 6288
+    },
+    "20": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 17.412,
+     "and_gates": 6287
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6340
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "carries | cryptominisat | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.388,
+     "and_gates": 6156
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.143,
+     "and_gates": 6205
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 6288
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | cadical | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.035,
+     "and_gates": 1411
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.04,
+     "and_gates": 1441
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.071,
+     "and_gates": 1456
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.137,
+     "and_gates": 1468
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.556,
+     "and_gates": 1480
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.986,
+     "and_gates": 1492
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.273,
+     "and_gates": 1504
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "chmaj | cryptominisat | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.061,
+     "and_gates": 1411
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.089,
+     "and_gates": 1441
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.112,
+     "and_gates": 1456
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.295,
+     "and_gates": 1468
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.891,
+     "and_gates": 1480
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 5.393,
+     "and_gates": 1492
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.058,
+     "and_gates": 1504
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "full | cadical | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.133,
+     "and_gates": 7577
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.716,
+     "and_gates": 7639
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 15.852,
+     "and_gates": 7686
+    },
+    "20": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 8.038,
+     "and_gates": 7783
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7805
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "full | cryptominisat | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.322,
+     "and_gates": 7577
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.086,
+     "and_gates": 7639
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 18.739,
+     "and_gates": 7686
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7783
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "salt | cadical | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.04,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.051,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.102,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.175,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.384,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.543,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.771,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "salt | cryptominisat | r=18": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.301,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.419,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.303,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.17,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.136,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.1,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.124,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "carries | cadical | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.122,
+     "and_gates": 6954
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.672,
+     "and_gates": 7016
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7045
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "carries | cryptominisat | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.469,
+     "and_gates": 6954
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 6.869,
+     "and_gates": 7016
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 7045
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | cadical | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.044,
+     "and_gates": 1605
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.305,
+     "and_gates": 1632
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.325,
+     "and_gates": 1648
+    },
+    "20": {
+     "solved": 2,
+     "trials": 3,
+     "median_seconds_solved": 9.837,
+     "and_gates": 1660
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1672
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "chmaj | cryptominisat | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.105,
+     "and_gates": 1605
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.365,
+     "and_gates": 1632
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 7.318,
+     "and_gates": 1648
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 26.615,
+     "and_gates": 1660
+    },
+    "24": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 5.069,
+     "and_gates": 1672
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 1684
+    }
+   },
+   "most_bits_all_solved": 20
+  },
+  "full | cadical | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.294,
+     "and_gates": 8562
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.331,
+     "and_gates": 8602
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 8695
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "full | cryptominisat | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.48,
+     "and_gates": 8562
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.832,
+     "and_gates": 8602
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 8695
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | cadical | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.049,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.228,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.979,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 2,
+     "trials": 3,
+     "median_seconds_solved": 21.621499999999997,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "salt | cryptominisat | r=20": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.257,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.017,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.698,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.45,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.15,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.206,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.17,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "carries | brute force | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.017,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.266,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.493,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 2,
+     "trials": 3,
+     "median_seconds_solved": 25.4285,
+     "and_gates": null
+    },
+    "32": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "carries | cadical | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.375,
+     "and_gates": 8603
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.712,
+     "and_gates": 8697
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 12.627,
+     "and_gates": 8746
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 8817
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "carries | cryptominisat | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.967,
+     "and_gates": 8603
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 18.632,
+     "and_gates": 8697
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 8746
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | brute force | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.002,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.016,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.118,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.351,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "chmaj | cadical | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.108,
+     "and_gates": 1987
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.464,
+     "and_gates": 2016
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 22.373,
+     "and_gates": 2032
+    },
+    "20": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 18.527,
+     "and_gates": 2044
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 2056
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "chmaj | cryptominisat | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.368,
+     "and_gates": 1987
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.202,
+     "and_gates": 2016
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 12.056,
+     "and_gates": 2032
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 2044
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "full | brute force | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.013,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.233,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.08,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "full | cadical | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.32,
+     "and_gates": 10533
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.336,
+     "and_gates": 10707
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 25.796,
+     "and_gates": 10795
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 10866
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "full | cryptominisat | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.151,
+     "and_gates": 10533
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 23.064,
+     "and_gates": 10707
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 10795
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | brute force | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.001,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.011,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.281,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.979,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 4.276,
+     "and_gates": null
+    },
+    "32": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "salt | cadical | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.075,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.748,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 14.036,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 6.057,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "salt | cryptominisat | r=24": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.64,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.373,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.047,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 2.667,
+     "and_gates": 0
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.997,
+     "and_gates": 0
+    },
+    "28": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.432,
+     "and_gates": 0
+    },
+    "32": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.367,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 32
+  },
+  "carries | cadical | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.338,
+     "and_gates": 12492
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 13.5,
+     "and_gates": 12610
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 12616
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "carries | cryptominisat | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 6.974,
+     "and_gates": 12492
+    },
+    "12": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 12610
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "chmaj | cadical | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.16,
+     "and_gates": 2755
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.842,
+     "and_gates": 2785
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 2800
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | cryptominisat | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.598,
+     "and_gates": 2755
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 10.993,
+     "and_gates": 2785
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 14.318,
+     "and_gates": 2800
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 2812
+    }
+   },
+   "most_bits_all_solved": 16
+  },
+  "full | cadical | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.612,
+     "and_gates": 15193
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 10.109,
+     "and_gates": 15275
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 8.121,
+     "and_gates": 15419
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 15502
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "full | cryptominisat | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 7.482,
+     "and_gates": 15193
+    },
+    "12": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 21.041,
+     "and_gates": 15275
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 17.032,
+     "and_gates": 15419
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 15502
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "salt | cadical | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.177,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.762,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | cryptominisat | r=32": {
+   "per_bits": {
+    "8": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 0
+  },
+  "carries | brute force | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.002,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.034,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.343,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 16.504,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "carries | cadical | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.953,
+     "and_gates": 31397
+    },
+    "12": {
+     "solved": 2,
+     "trials": 3,
+     "median_seconds_solved": 14.958,
+     "and_gates": 31383
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 31449
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "carries | cms clauses only | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 5.249,
+     "and_gates": 31397
+    },
+    "12": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 27.238,
+     "and_gates": 31383
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 31449
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "carries | cryptominisat | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 31397
+    }
+   },
+   "most_bits_all_solved": 0
+  },
+  "chmaj | brute force | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.002,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.004,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.049,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.734,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 8.341,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "chmaj | cadical | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.755,
+     "and_gates": 5826
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 8.852,
+     "and_gates": 5857
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 5872
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | cms clauses only | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 4.276,
+     "and_gates": 5826
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 16.351,
+     "and_gates": 5857
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 5872
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "chmaj | cryptominisat | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 5826
+    }
+   },
+   "most_bits_all_solved": 0
+  },
+  "full | brute force | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.006,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.042,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.357,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 14.171,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "full | cadical | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.056,
+     "and_gates": 37207
+    },
+    "12": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 37168
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "full | cms clauses only | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.117,
+     "and_gates": 37207
+    },
+    "12": {
+     "solved": 2,
+     "trials": 3,
+     "median_seconds_solved": 10.0885,
+     "and_gates": 37168
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 37330
+    }
+   },
+   "most_bits_all_solved": 8
+  },
+  "full | cryptominisat | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 37207
+    }
+   },
+   "most_bits_all_solved": 0
+  },
+  "salt | brute force | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.002,
+     "and_gates": null
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.003,
+     "and_gates": null
+    },
+    "16": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 0.036,
+     "and_gates": null
+    },
+    "20": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.196,
+     "and_gates": null
+    },
+    "24": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 17.919,
+     "and_gates": null
+    },
+    "28": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": null
+    }
+   },
+   "most_bits_all_solved": 24
+  },
+  "salt | cadical | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 1.41,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 13.813,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 1,
+     "trials": 3,
+     "median_seconds_solved": 25.954,
+     "and_gates": 0
+    },
+    "20": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | cms clauses only | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 3.111,
+     "and_gates": 0
+    },
+    "12": {
+     "solved": 3,
+     "trials": 3,
+     "median_seconds_solved": 13.571,
+     "and_gates": 0
+    },
+    "16": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 12
+  },
+  "salt | cryptominisat | r=64": {
+   "per_bits": {
+    "8": {
+     "solved": 0,
+     "trials": 3,
+     "median_seconds_solved": null,
+     "and_gates": 0
+    }
+   },
+   "most_bits_all_solved": 0
+  }
+ }
+}

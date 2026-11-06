@@ -1,0 +1,6 @@
+name = "pvsnp"
+version = "0.1.0"
+defaultTargets = ["PvsNP"]
+
+[[lean_lib]]
+name = "PvsNP"

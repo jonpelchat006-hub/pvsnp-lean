@@ -1,0 +1,12 @@
+# Lean / Lake build output (Mathlib alone is ~7 GB)
+.lake/
+**/.lake/
+
+# Python caches (including numba's)
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+
+# Local file inventory of the author's machine; kept off the public repo
+RESEARCH_INVENTORY.csv

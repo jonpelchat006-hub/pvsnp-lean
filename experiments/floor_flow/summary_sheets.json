@@ -1,0 +1,117 @@
+{
+  "seed": 20261103,
+  "trials": 10,
+  "summary": {
+    "2 sheets": {
+      "per_n": {
+        "32": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 13.651724433108065,
+          "log2_work": 14.651780480777731,
+          "median_seconds": 0.00895
+        },
+        "40": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 17.495261691472315,
+          "log2_work": 18.495265595792304,
+          "median_seconds": 0.16870000000000002
+        },
+        "48": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 21.366746950949633,
+          "log2_work": 22.366747217704752,
+          "median_seconds": 3.5321499999999997
+        },
+        "52": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 23.310163422583265,
+          "log2_work": 24.3101634919396,
+          "median_seconds": 14.925699999999999
+        }
+      },
+      "fitted_exponent": {
+        "log2_largest_sheet_per_n": 0.48292564287877915,
+        "log2_work_per_n": 0.48292298915274645
+      },
+      "theory_exponent": 0.5
+    },
+    "4 sheets": {
+      "per_n": {
+        "32": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 10.829722735086058,
+          "log2_work": 12.755408910396103,
+          "median_seconds": 0.0012499999999999998
+        },
+        "40": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 13.92035285541508,
+          "log2_work": 15.881579580030644,
+          "median_seconds": 0.010700000000000001
+        },
+        "48": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 17.0382760101955,
+          "log2_work": 18.63737653387895,
+          "median_seconds": 0.12569999999999998
+        },
+        "56": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 20.175286389165077,
+          "log2_work": 21.53487111659517,
+          "median_seconds": 1.29585
+        },
+        "64": {
+          "found": 10,
+          "median_tries": 1.5,
+          "log2_largest_sheet": 23.326398214872576,
+          "log2_work": 24.628183312236157,
+          "median_seconds": 24.4897
+        }
+      },
+      "fitted_exponent": {
+        "log2_largest_sheet_per_n": 0.39060355616653775,
+        "log2_work_per_n": 0.3674855042530579
+      },
+      "theory_exponent": 0.40565
+    },
+    "8 sheets": {
+      "per_n": {
+        "32": {
+          "found": 10,
+          "median_tries": 2.0,
+          "log2_largest_sheet": 9.164871895776391,
+          "log2_work": 13.956098347522776,
+          "median_seconds": 0.00135
+        },
+        "48": {
+          "found": 10,
+          "median_tries": 1.0,
+          "log2_largest_sheet": 14.724871224193535,
+          "log2_work": 18.73727862512782,
+          "median_seconds": 0.02975
+        },
+        "64": {
+          "found": 10,
+          "median_tries": 2.0,
+          "log2_largest_sheet": 19.139814857814947,
+          "log2_work": 24.224861685365255,
+          "median_seconds": 1.8834
+        }
+      },
+      "fitted_exponent": {
+        "log2_largest_sheet_per_n": 0.31171696756370515,
+        "log2_work_per_n": 0.3208988543075777
+      },
+      "theory_exponent": 0.337
+    }
+  }
+}

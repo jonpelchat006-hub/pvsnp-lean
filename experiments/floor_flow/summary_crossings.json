@@ -1,0 +1,9648 @@
+{
+ "by_case": {
+  "carries | k=4 | r=4": {
+   "front": {
+    "crossings": 1,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=4 | r=8": {
+   "front": {
+    "crossings": 1322,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=4 | r=12": {
+   "front": {
+    "crossings": 2172,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=4 | r=16": {
+   "front": {
+    "crossings": 3037,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=4 | r=17": {
+   "front": {
+    "crossings": 3265,
+    "open": 2481,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 2682,
+    "open": 2430,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2496,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2346,
+    "crossings": 2502,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=18": {
+   "front": {
+    "crossings": 3472,
+    "open": 2437,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 2708,
+    "open": 2412,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2503,
+    "splits": [
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2339,
+    "crossings": 2522,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=19": {
+   "front": {
+    "crossings": 3724,
+    "open": 2906,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3093,
+    "open": 2838,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2936,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2789,
+    "crossings": 2936,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=20": {
+   "front": {
+    "crossings": 3930,
+    "open": 2912,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3115,
+    "open": 2880,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2938,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2764,
+    "crossings": 2954,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=24": {
+   "front": {
+    "crossings": 4822,
+    "open": 4307,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 4364,
+    "open": 4105,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 4181,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 4033,
+    "crossings": 4194,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=32": {
+   "front": {
+    "crossings": 6904,
+    "open": 6562,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 6529,
+    "open": 6242,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 6340,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 6186,
+    "crossings": 6349,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=48": {
+   "front": {
+    "crossings": 11740,
+    "open": 11400,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 11337,
+    "open": 11089,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 11173,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 11010,
+    "crossings": 11173,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=4 | r=64": {
+   "front": {
+    "crossings": 16710,
+    "open": 16369,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 16330,
+    "open": 16040,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 16142,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 15978,
+    "crossings": 16155,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=4": {
+   "front": {
+    "crossings": 5,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=8 | r=8": {
+   "front": {
+    "crossings": 1363,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=8 | r=12": {
+   "front": {
+    "crossings": 2245,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=8 | r=16": {
+   "front": {
+    "crossings": 3076,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=8 | r=17": {
+   "front": {
+    "crossings": 3318,
+    "open": 2609,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 2711,
+    "open": 2519,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 2565,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2430,
+    "crossings": 2640,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=18": {
+   "front": {
+    "crossings": 3548,
+    "open": 2635,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 2746,
+    "open": 2534,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 2598,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2448,
+    "crossings": 2606,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=19": {
+   "front": {
+    "crossings": 3752,
+    "open": 3075,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3251,
+    "open": 3040,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3108,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2965,
+    "crossings": 3108,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=20": {
+   "front": {
+    "crossings": 3997,
+    "open": 3221,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3322,
+    "open": 3102,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3175,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 3039,
+    "crossings": 3175,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=24": {
+   "front": {
+    "crossings": 4920,
+    "open": 4391,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 4394,
+    "open": 4196,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 4254,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 4134,
+    "crossings": 4254,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=32": {
+   "front": {
+    "crossings": 7000,
+    "open": 6663,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 6580,
+    "open": 6341,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 6428,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 6281,
+    "crossings": 6428,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=48": {
+   "front": {
+    "crossings": 11840,
+    "open": 11499,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 11424,
+    "open": 11199,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 11272,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 11121,
+    "crossings": 11272,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=8 | r=64": {
+   "front": {
+    "crossings": 16811,
+    "open": 16460,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 16377,
+    "open": 16169,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 16224,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 16083,
+    "crossings": 16224,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=4": {
+   "front": {
+    "crossings": 9,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=12 | r=8": {
+   "front": {
+    "crossings": 1394,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=12 | r=12": {
+   "front": {
+    "crossings": 2251,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=12 | r=16": {
+   "front": {
+    "crossings": 3106,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=12 | r=17": {
+   "front": {
+    "crossings": 3360,
+    "open": 2705,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 2811,
+    "open": 2608,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 2673,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 2552,
+    "crossings": 2673,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=18": {
+   "front": {
+    "crossings": 3583,
+    "open": 2734,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 2825,
+    "open": 2637,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 2698,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 2578,
+    "crossings": 2698,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=19": {
+   "front": {
+    "crossings": 3812,
+    "open": 3261,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 3346,
+    "open": 3158,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3213,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 3089,
+    "crossings": 3213,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=20": {
+   "front": {
+    "crossings": 4023,
+    "open": 3237,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 3332,
+    "open": 3137,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3193,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 3068,
+    "crossings": 3193,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=24": {
+   "front": {
+    "crossings": 4965,
+    "open": 4449,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 4449,
+    "open": 4253,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 4313,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 4187,
+    "crossings": 4313,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=32": {
+   "front": {
+    "crossings": 7118,
+    "open": 6763,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 6662,
+    "open": 6477,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 6534,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 6414,
+    "crossings": 6534,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=48": {
+   "front": {
+    "crossings": 11985,
+    "open": 11645,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 11543,
+    "open": 11410,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 11412,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 11296,
+    "crossings": 11412,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=12 | r=64": {
+   "front": {
+    "crossings": 16893,
+    "open": 16557,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 16456,
+    "open": 16258,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 16320,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 16198,
+    "crossings": 16320,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=4": {
+   "front": {
+    "crossings": 13,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=16 | r=8": {
+   "front": {
+    "crossings": 1400,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=16 | r=12": {
+   "front": {
+    "crossings": 2269,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=16 | r=16": {
+   "front": {
+    "crossings": 3111,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=16 | r=17": {
+   "front": {
+    "crossings": 3377,
+    "open": 2766,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 2854,
+    "open": 2686,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 2733,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 2623,
+    "crossings": 2733,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=18": {
+   "front": {
+    "crossings": 3588,
+    "open": 2760,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 2865,
+    "open": 2676,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 2742,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 2623,
+    "crossings": 2742,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=19": {
+   "front": {
+    "crossings": 3830,
+    "open": 3293,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 3362,
+    "open": 3230,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3235,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3118,
+    "crossings": 3235,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=20": {
+   "front": {
+    "crossings": 4040,
+    "open": 3295,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 3357,
+    "open": 3186,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3236,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3119,
+    "crossings": 3236,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=24": {
+   "front": {
+    "crossings": 5014,
+    "open": 4547,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 4527,
+    "open": 4386,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 4415,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 4310,
+    "crossings": 4415,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=32": {
+   "front": {
+    "crossings": 7146,
+    "open": 6792,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 6684,
+    "open": 6522,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 6558,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 6434,
+    "crossings": 6558,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=48": {
+   "front": {
+    "crossings": 12045,
+    "open": 11699,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 11593,
+    "open": 11449,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 11468,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 11350,
+    "crossings": 11468,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=16 | r=64": {
+   "front": {
+    "crossings": 16974,
+    "open": 16622,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 16504,
+    "open": 16365,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 16377,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 16260,
+    "crossings": 16377,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=4": {
+   "front": {
+    "crossings": 21,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=24 | r=8": {
+   "front": {
+    "crossings": 1425,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=24 | r=12": {
+   "front": {
+    "crossings": 2296,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=24 | r=16": {
+   "front": {
+    "crossings": 3151,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=24 | r=17": {
+   "front": {
+    "crossings": 3431,
+    "open": 2847,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 2934,
+    "open": 2826,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 2832,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 2730,
+    "crossings": 2832,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=18": {
+   "front": {
+    "crossings": 3642,
+    "open": 2853,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 2947,
+    "open": 2847,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 2847,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 2744,
+    "crossings": 2847,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=19": {
+   "front": {
+    "crossings": 3884,
+    "open": 3358,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 3396,
+    "open": 3297,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 3300,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3203,
+    "crossings": 3300,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=20": {
+   "front": {
+    "crossings": 4095,
+    "open": 3357,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 3399,
+    "open": 3292,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 3301,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3204,
+    "crossings": 3301,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=24": {
+   "front": {
+    "crossings": 5076,
+    "open": 4616,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 4596,
+    "open": 4487,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 4499,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 4400,
+    "crossings": 4499,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=32": {
+   "front": {
+    "crossings": 7210,
+    "open": 6857,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 6720,
+    "open": 6616,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 6623,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 6523,
+    "crossings": 6623,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=48": {
+   "front": {
+    "crossings": 12145,
+    "open": 11799,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 11662,
+    "open": 11557,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 11566,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 11464,
+    "crossings": 11566,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=24 | r=64": {
+   "front": {
+    "crossings": 17053,
+    "open": 16696,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 16569,
+    "open": 16459,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 16467,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 16366,
+    "crossings": 16467,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=4": {
+   "front": {
+    "crossings": 28,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=32 | r=8": {
+   "front": {
+    "crossings": 1457,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=32 | r=12": {
+   "front": {
+    "crossings": 2312,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=32 | r=16": {
+   "front": {
+    "crossings": 3165,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "carries | k=32 | r=17": {
+   "front": {
+    "crossings": 3468,
+    "open": 2879,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 2966,
+    "open": 2871,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 2880,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 2785,
+    "crossings": 2880,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=18": {
+   "front": {
+    "crossings": 3670,
+    "open": 2868,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 2953,
+    "open": 2858,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 2867,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 2772,
+    "crossings": 2867,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=19": {
+   "front": {
+    "crossings": 3917,
+    "open": 3404,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 3425,
+    "open": 3329,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 3339,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3243,
+    "crossings": 3339,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=20": {
+   "front": {
+    "crossings": 4126,
+    "open": 3392,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 3415,
+    "open": 3321,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 3329,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3235,
+    "crossings": 3329,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=24": {
+   "front": {
+    "crossings": 5102,
+    "open": 4635,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 4609,
+    "open": 4512,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 4523,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 4426,
+    "crossings": 4523,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=32": {
+   "front": {
+    "crossings": 7239,
+    "open": 6889,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 6757,
+    "open": 6662,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 6671,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 6576,
+    "crossings": 6671,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=48": {
+   "front": {
+    "crossings": 12173,
+    "open": 11821,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 11687,
+    "open": 11593,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 11601,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 11507,
+    "crossings": 11601,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "carries | k=32 | r=64": {
+   "front": {
+    "crossings": 17083,
+    "open": 16730,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 16587,
+    "open": 16489,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 16501,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 16403,
+    "crossings": 16501,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=4 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=8": {
+   "front": {
+    "crossings": 68,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=12": {
+   "front": {
+    "crossings": 341,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=16": {
+   "front": {
+    "crossings": 597,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=17": {
+   "front": {
+    "crossings": 662,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 145,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 23,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 145,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=18": {
+   "front": {
+    "crossings": 723,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 142,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 21,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 142,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=19": {
+   "front": {
+    "crossings": 789,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 478,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 181,
+    "splits": [
+     4,
+     5
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 478,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=4 | r=20": {
+   "front": {
+    "crossings": 849,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 481,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 160,
+    "splits": [
+     4,
+     5
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 481,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=4 | r=24": {
+   "front": {
+    "crossings": 1110,
+    "open": 756,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 892,
+    "open": 756,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 756,
+    "splits": [
+     5,
+     6
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 756,
+    "crossings": 892,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=4 | r=32": {
+   "front": {
+    "crossings": 1618,
+    "open": 1396,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 1538,
+    "open": 1396,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 1396,
+    "splits": [
+     8
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 1396,
+    "crossings": 1538,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=4 | r=48": {
+   "front": {
+    "crossings": 2640,
+    "open": 2480,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 2621,
+    "open": 2480,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2480,
+    "splits": [
+     8
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2480,
+    "crossings": 2621,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=4 | r=64": {
+   "front": {
+    "crossings": 3667,
+    "open": 3525,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3666,
+    "open": 3525,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 3525,
+    "splits": [
+     8
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 3525,
+    "crossings": 3666,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=8": {
+   "front": {
+    "crossings": 147,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=12": {
+   "front": {
+    "crossings": 404,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=16": {
+   "front": {
+    "crossings": 660,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=17": {
+   "front": {
+    "crossings": 724,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 348,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 85,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 348,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=18": {
+   "front": {
+    "crossings": 789,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 350,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 85,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 350,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=8 | r=19": {
+   "front": {
+    "crossings": 853,
+    "open": 510,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 585,
+    "open": 510,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 510,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 510,
+    "crossings": 585,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=20": {
+   "front": {
+    "crossings": 916,
+    "open": 511,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 587,
+    "open": 511,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 511,
+    "splits": [
+     3,
+     5
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 511,
+    "crossings": 587,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=24": {
+   "front": {
+    "crossings": 1172,
+    "open": 903,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 977,
+    "open": 903,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 903,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 903,
+    "crossings": 977,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=32": {
+   "front": {
+    "crossings": 1684,
+    "open": 1514,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 1588,
+    "open": 1514,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 1514,
+    "splits": [
+     3,
+     8
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 1514,
+    "crossings": 1588,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=48": {
+   "front": {
+    "crossings": 2708,
+    "open": 2580,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 2656,
+    "open": 2580,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 2580,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2580,
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=8 | r=64": {
+   "front": {
+    "crossings": 3732,
+    "open": 3602,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3678,
+    "open": 3602,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3602,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 3602,
+    "crossings": 3678,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=8": {
+   "front": {
+    "crossings": 179,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=12": {
+   "front": {
+    "crossings": 436,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=16": {
+   "front": {
+    "crossings": 692,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=17": {
+   "front": {
+    "crossings": 756,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 438,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 182,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 438,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=18": {
+   "front": {
+    "crossings": 820,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 426,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 169,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 426,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=12 | r=19": {
+   "front": {
+    "crossings": 884,
+    "open": 600,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 644,
+    "open": 600,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 600,
+    "splits": [
+     2,
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 600,
+    "crossings": 644,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=20": {
+   "front": {
+    "crossings": 948,
+    "open": 607,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 651,
+    "open": 607,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 607,
+    "splits": [
+     2,
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 607,
+    "crossings": 651,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=24": {
+   "front": {
+    "crossings": 1204,
+    "open": 979,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 1023,
+    "open": 979,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 979,
+    "splits": [
+     2,
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 979,
+    "crossings": 1023,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=32": {
+   "front": {
+    "crossings": 1715,
+    "open": 1567,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 1612,
+    "open": 1567,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 1567,
+    "splits": [
+     2,
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 1567,
+    "crossings": 1612,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=48": {
+   "front": {
+    "crossings": 2740,
+    "open": 2612,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 2656,
+    "open": 2612,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 2612,
+    "splits": [
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 2612,
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=12 | r=64": {
+   "front": {
+    "crossings": 3763,
+    "open": 3635,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 3680,
+    "open": 3635,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3635,
+    "splits": [
+     2,
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 3635,
+    "crossings": 3680,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=16 | r=8": {
+   "front": {
+    "crossings": 192,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=16 | r=12": {
+   "front": {
+    "crossings": 448,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=16 | r=16": {
+   "front": {
+    "crossings": 704,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=16 | r=17": {
+   "front": {
+    "crossings": 768,
+    "open": 420,
+    "d_prime": 14
+   },
+   "back": {
+    "crossings": 469,
+    "open": 420,
+    "d_prime": 14
+   },
+   "fewest": {
+    "crossings": 432,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 14,
+    "open": 420,
+    "crossings": 469,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=18": {
+   "front": {
+    "crossings": 832,
+    "open": 386,
+    "d_prime": 9
+   },
+   "back": {
+    "crossings": 461,
+    "open": 386,
+    "d_prime": 9
+   },
+   "fewest": {
+    "crossings": 412,
+    "splits": [
+     3
+    ]
+   },
+   "best": {
+    "d_prime": 9,
+    "open": 386,
+    "crossings": 461,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=19": {
+   "front": {
+    "crossings": 896,
+    "open": 647,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 679,
+    "open": 647,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 647,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 647,
+    "crossings": 679,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=20": {
+   "front": {
+    "crossings": 960,
+    "open": 648,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 680,
+    "open": 648,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 648,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 648,
+    "crossings": 680,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=24": {
+   "front": {
+    "crossings": 1216,
+    "open": 1003,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 1035,
+    "open": 1003,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 1003,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 1003,
+    "crossings": 1035,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=32": {
+   "front": {
+    "crossings": 1728,
+    "open": 1584,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 1616,
+    "open": 1584,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 1584,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 1584,
+    "crossings": 1616,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=48": {
+   "front": {
+    "crossings": 2752,
+    "open": 2624,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 2656,
+    "open": 2624,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 2624,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 2624,
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=16 | r=64": {
+   "front": {
+    "crossings": 3776,
+    "open": 3648,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 3680,
+    "open": 3648,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3648,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3648,
+    "crossings": 3680,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=24 | r=8": {
+   "front": {
+    "crossings": 208,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=24 | r=12": {
+   "front": {
+    "crossings": 464,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=24 | r=16": {
+   "front": {
+    "crossings": 720,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=24 | r=17": {
+   "front": {
+    "crossings": 784,
+    "open": 487,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 503,
+    "open": 487,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 487,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 487,
+    "crossings": 503,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=18": {
+   "front": {
+    "crossings": 848,
+    "open": 492,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 508,
+    "open": 492,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 492,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 492,
+    "crossings": 508,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=19": {
+   "front": {
+    "crossings": 912,
+    "open": 697,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 713,
+    "open": 697,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 697,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 697,
+    "crossings": 713,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=20": {
+   "front": {
+    "crossings": 976,
+    "open": 693,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 709,
+    "open": 693,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 693,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 693,
+    "crossings": 709,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=24": {
+   "front": {
+    "crossings": 1232,
+    "open": 1055,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 1071,
+    "open": 1055,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 1055,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 1055,
+    "crossings": 1071,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=32": {
+   "front": {
+    "crossings": 1744,
+    "open": 1601,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 1617,
+    "open": 1601,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 1601,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 1601,
+    "crossings": 1617,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=48": {
+   "front": {
+    "crossings": 2768,
+    "open": 2640,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 2656,
+    "open": 2640,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 2640,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 2640,
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=24 | r=64": {
+   "front": {
+    "crossings": 3792,
+    "open": 3664,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 3680,
+    "open": 3664,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 3664,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3664,
+    "crossings": 3680,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=32 | r=8": {
+   "front": {
+    "crossings": 224,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=32 | r=12": {
+   "front": {
+    "crossings": 480,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=32 | r=16": {
+   "front": {
+    "crossings": 736,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "chmaj | k=32 | r=17": {
+   "front": {
+    "crossings": 800,
+    "open": 528,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 528,
+    "open": 528,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 528,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 528,
+    "crossings": 528,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=18": {
+   "front": {
+    "crossings": 864,
+    "open": 534,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 534,
+    "open": 534,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 534,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 534,
+    "crossings": 534,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=19": {
+   "front": {
+    "crossings": 928,
+    "open": 734,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 734,
+    "open": 734,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 734,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 734,
+    "crossings": 734,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=20": {
+   "front": {
+    "crossings": 992,
+    "open": 742,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 742,
+    "open": 742,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 742,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 742,
+    "crossings": 742,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=24": {
+   "front": {
+    "crossings": 1248,
+    "open": 1103,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 1103,
+    "open": 1103,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 1103,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 1103,
+    "crossings": 1103,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=32": {
+   "front": {
+    "crossings": 1760,
+    "open": 1612,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 1612,
+    "open": 1612,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 1612,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 1612,
+    "crossings": 1612,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=48": {
+   "front": {
+    "crossings": 2784,
+    "open": 2656,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 2656,
+    "open": 2656,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 2656,
+    "crossings": 2656,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "chmaj | k=32 | r=64": {
+   "front": {
+    "crossings": 3808,
+    "open": 3680,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 3680,
+    "open": 3680,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 3680,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3680,
+    "crossings": 3680,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=4 | r=8": {
+   "front": {
+    "crossings": 1450,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=4 | r=12": {
+   "front": {
+    "crossings": 2569,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=4 | r=16": {
+   "front": {
+    "crossings": 3670,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=4 | r=17": {
+   "front": {
+    "crossings": 3992,
+    "open": 2909,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3167,
+    "open": 2828,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2937,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2675,
+    "crossings": 2980,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=18": {
+   "front": {
+    "crossings": 4232,
+    "open": 2778,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3089,
+    "open": 2789,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 2862,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 2675,
+    "crossings": 2901,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=19": {
+   "front": {
+    "crossings": 4515,
+    "open": 3489,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3757,
+    "open": 3444,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 3496,
+    "splits": [
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 3304,
+    "crossings": 3519,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=20": {
+   "front": {
+    "crossings": 4823,
+    "open": 3580,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 3838,
+    "open": 3521,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 3625,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 3442,
+    "crossings": 3625,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=24": {
+   "front": {
+    "crossings": 5993,
+    "open": 5242,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 5359,
+    "open": 5060,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 5131,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 4955,
+    "crossings": 5136,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=32": {
+   "front": {
+    "crossings": 8561,
+    "open": 8084,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 8052,
+    "open": 7745,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 7844,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 7669,
+    "crossings": 7844,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=48": {
+   "front": {
+    "crossings": 14423,
+    "open": 13953,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 13938,
+    "open": 13633,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 13693,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 13526,
+    "crossings": 13732,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=4 | r=64": {
+   "front": {
+    "crossings": 20403,
+    "open": 19941,
+    "d_prime": 4
+   },
+   "back": {
+    "crossings": 19910,
+    "open": 19550,
+    "d_prime": 4
+   },
+   "fewest": {
+    "crossings": 19682,
+    "splits": [
+     1,
+     2
+    ]
+   },
+   "best": {
+    "d_prime": 4,
+    "open": 19485,
+    "crossings": 19691,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=4": {
+   "front": {
+    "crossings": 4,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=8 | r=8": {
+   "front": {
+    "crossings": 1496,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=8 | r=12": {
+   "front": {
+    "crossings": 2592,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=8 | r=16": {
+   "front": {
+    "crossings": 3728,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=8 | r=17": {
+   "front": {
+    "crossings": 4027,
+    "open": 3094,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3330,
+    "open": 3065,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3143,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2957,
+    "crossings": 3143,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=18": {
+   "front": {
+    "crossings": 4320,
+    "open": 3077,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3259,
+    "open": 2989,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3082,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 2936,
+    "crossings": 3082,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=19": {
+   "front": {
+    "crossings": 4604,
+    "open": 3847,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 4006,
+    "open": 3717,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3808,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 3658,
+    "crossings": 3808,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=20": {
+   "front": {
+    "crossings": 4867,
+    "open": 3643,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 3858,
+    "open": 3588,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 3668,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 3513,
+    "crossings": 3668,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=24": {
+   "front": {
+    "crossings": 6055,
+    "open": 5409,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 5443,
+    "open": 5164,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 5252,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 5104,
+    "crossings": 5252,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=32": {
+   "front": {
+    "crossings": 8670,
+    "open": 8205,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 8110,
+    "open": 7818,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 7912,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 7750,
+    "crossings": 7912,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=48": {
+   "front": {
+    "crossings": 14634,
+    "open": 14174,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 14082,
+    "open": 13803,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 13893,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 13744,
+    "crossings": 13893,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=8 | r=64": {
+   "front": {
+    "crossings": 20508,
+    "open": 20042,
+    "d_prime": 8
+   },
+   "back": {
+    "crossings": 19945,
+    "open": 19667,
+    "d_prime": 8
+   },
+   "fewest": {
+    "crossings": 19752,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 8,
+    "open": 19600,
+    "crossings": 19752,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=4": {
+   "front": {
+    "crossings": 8,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=12 | r=8": {
+   "front": {
+    "crossings": 1543,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=12 | r=12": {
+   "front": {
+    "crossings": 2669,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=12 | r=16": {
+   "front": {
+    "crossings": 3742,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=12 | r=17": {
+   "front": {
+    "crossings": 4068,
+    "open": 3166,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 3324,
+    "open": 3137,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3153,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 2998,
+    "crossings": 3153,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=18": {
+   "front": {
+    "crossings": 4349,
+    "open": 3155,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 3291,
+    "open": 3041,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3122,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 2968,
+    "crossings": 3124,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=19": {
+   "front": {
+    "crossings": 4638,
+    "open": 3919,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 4032,
+    "open": 3843,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3868,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 3732,
+    "crossings": 3868,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=20": {
+   "front": {
+    "crossings": 4938,
+    "open": 3880,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 4000,
+    "open": 3757,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 3833,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 3684,
+    "crossings": 3833,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=24": {
+   "front": {
+    "crossings": 6130,
+    "open": 5495,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 5501,
+    "open": 5274,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 5334,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 5187,
+    "crossings": 5334,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=32": {
+   "front": {
+    "crossings": 8766,
+    "open": 8316,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 8185,
+    "open": 7985,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 8030,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 7892,
+    "crossings": 8030,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=48": {
+   "front": {
+    "crossings": 14733,
+    "open": 14237,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 14145,
+    "open": 13905,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 13978,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 13844,
+    "crossings": 13978,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=12 | r=64": {
+   "front": {
+    "crossings": 20675,
+    "open": 20196,
+    "d_prime": 12
+   },
+   "back": {
+    "crossings": 20090,
+    "open": 19884,
+    "d_prime": 12
+   },
+   "fewest": {
+    "crossings": 19920,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 12,
+    "open": 19775,
+    "crossings": 19920,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=4": {
+   "front": {
+    "crossings": 12,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=16 | r=8": {
+   "front": {
+    "crossings": 1567,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=16 | r=12": {
+   "front": {
+    "crossings": 2672,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=16 | r=16": {
+   "front": {
+    "crossings": 3790,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=16 | r=17": {
+   "front": {
+    "crossings": 4122,
+    "open": 3255,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 3463,
+    "open": 3290,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3309,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3166,
+    "crossings": 3309,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=18": {
+   "front": {
+    "crossings": 4374,
+    "open": 3318,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 3409,
+    "open": 3222,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3258,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3126,
+    "crossings": 3258,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=19": {
+   "front": {
+    "crossings": 4730,
+    "open": 3961,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 4055,
+    "open": 3867,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3934,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3816,
+    "crossings": 3934,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=20": {
+   "front": {
+    "crossings": 4972,
+    "open": 3975,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 4083,
+    "open": 3878,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 3932,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 3795,
+    "crossings": 3932,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=24": {
+   "front": {
+    "crossings": 6199,
+    "open": 5586,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 5579,
+    "open": 5364,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 5429,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 5284,
+    "crossings": 5429,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=32": {
+   "front": {
+    "crossings": 8851,
+    "open": 8364,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 8242,
+    "open": 8039,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 8090,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 7957,
+    "crossings": 8090,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=48": {
+   "front": {
+    "crossings": 14751,
+    "open": 14297,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 14158,
+    "open": 13990,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 14013,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 13879,
+    "crossings": 14013,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=16 | r=64": {
+   "front": {
+    "crossings": 20736,
+    "open": 20247,
+    "d_prime": 16
+   },
+   "back": {
+    "crossings": 20129,
+    "open": 19939,
+    "d_prime": 16
+   },
+   "fewest": {
+    "crossings": 19979,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 16,
+    "open": 19844,
+    "crossings": 19979,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=4": {
+   "front": {
+    "crossings": 20,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=24 | r=8": {
+   "front": {
+    "crossings": 1616,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=24 | r=12": {
+   "front": {
+    "crossings": 2723,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=24 | r=16": {
+   "front": {
+    "crossings": 3823,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=24 | r=17": {
+   "front": {
+    "crossings": 4186,
+    "open": 3373,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 3518,
+    "open": 3390,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 3408,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3286,
+    "crossings": 3408,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=18": {
+   "front": {
+    "crossings": 4446,
+    "open": 3394,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 3518,
+    "open": 3391,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 3410,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3292,
+    "crossings": 3420,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=19": {
+   "front": {
+    "crossings": 4762,
+    "open": 4049,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 4132,
+    "open": 3989,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 4017,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3887,
+    "crossings": 4017,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=20": {
+   "front": {
+    "crossings": 5028,
+    "open": 4048,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 4121,
+    "open": 3990,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 4010,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 3886,
+    "crossings": 4010,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=24": {
+   "front": {
+    "crossings": 6266,
+    "open": 5689,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 5651,
+    "open": 5522,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 5539,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 5418,
+    "crossings": 5539,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=32": {
+   "front": {
+    "crossings": 8920,
+    "open": 8439,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 8292,
+    "open": 8151,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 8179,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 8051,
+    "crossings": 8179,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=48": {
+   "front": {
+    "crossings": 14860,
+    "open": 14401,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 14231,
+    "open": 14108,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 14130,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 14015,
+    "crossings": 14130,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=24 | r=64": {
+   "front": {
+    "crossings": 20800,
+    "open": 20335,
+    "d_prime": 24
+   },
+   "back": {
+    "crossings": 20184,
+    "open": 20052,
+    "d_prime": 24
+   },
+   "fewest": {
+    "crossings": 20071,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 24,
+    "open": 19953,
+    "crossings": 20071,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=4": {
+   "front": {
+    "crossings": 27,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=32 | r=8": {
+   "front": {
+    "crossings": 1645,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=32 | r=12": {
+   "front": {
+    "crossings": 2731,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=32 | r=16": {
+   "front": {
+    "crossings": 3843,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "full | k=32 | r=17": {
+   "front": {
+    "crossings": 4217,
+    "open": 3458,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 3552,
+    "open": 3434,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 3464,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3343,
+    "crossings": 3464,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=18": {
+   "front": {
+    "crossings": 4504,
+    "open": 3449,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 3561,
+    "open": 3442,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 3473,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3354,
+    "crossings": 3473,
+    "splits": [
+     1,
+     16
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=19": {
+   "front": {
+    "crossings": 4801,
+    "open": 4100,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 4124,
+    "open": 4009,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 4036,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3921,
+    "crossings": 4036,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=20": {
+   "front": {
+    "crossings": 5087,
+    "open": 4085,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 4111,
+    "open": 3989,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 4023,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 3901,
+    "crossings": 4023,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=24": {
+   "front": {
+    "crossings": 6300,
+    "open": 5717,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 5675,
+    "open": 5561,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 5587,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 5473,
+    "crossings": 5587,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=32": {
+   "front": {
+    "crossings": 8953,
+    "open": 8495,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 8318,
+    "open": 8202,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 8230,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 8114,
+    "crossings": 8230,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=48": {
+   "front": {
+    "crossings": 14876,
+    "open": 14419,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 14261,
+    "open": 14142,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 14173,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 14054,
+    "crossings": 14173,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "full | k=32 | r=64": {
+   "front": {
+    "crossings": 20861,
+    "open": 20389,
+    "d_prime": 32
+   },
+   "back": {
+    "crossings": 20214,
+    "open": 20095,
+    "d_prime": 32
+   },
+   "fewest": {
+    "crossings": 20126,
+    "splits": [
+     1
+    ]
+   },
+   "best": {
+    "d_prime": 32,
+    "open": 20007,
+    "crossings": 20126,
+    "splits": [
+     1
+    ]
+   },
+   "all_solved": {
+    "front": false,
+    "back": false,
+    "best": false
+   }
+  },
+  "salt | k=4 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=4 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=8 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=12 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=16 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=24 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=4": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=8": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=12": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=16": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=17": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=18": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=19": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=20": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=24": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=32": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=48": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  },
+  "salt | k=32 | r=64": {
+   "front": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "back": {
+    "crossings": 0,
+    "open": 0,
+    "d_prime": 0
+   },
+   "fewest": {
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "best": {
+    "d_prime": 0,
+    "open": 0,
+    "crossings": 0,
+    "splits": [
+     0
+    ]
+   },
+   "all_solved": {
+    "front": true,
+    "back": true,
+    "best": true
+   }
+  }
+ },
+ "most_k_seen_through": {
+  "salt | r=4": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=8": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=12": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=16": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=17": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=18": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=19": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=20": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=24": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=32": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=48": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "salt | r=64": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "chmaj | r=4": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "chmaj | r=8": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "chmaj | r=12": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "chmaj | r=16": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "chmaj | r=17": {
+   "front": 12,
+   "back": 12,
+   "best": 12
+  },
+  "chmaj | r=18": {
+   "front": 12,
+   "back": 12,
+   "best": 12
+  },
+  "chmaj | r=19": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "chmaj | r=20": {
+   "front": 4,
+   "back": 4,
+   "best": 4
+  },
+  "chmaj | r=24": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "chmaj | r=32": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "chmaj | r=48": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "chmaj | r=64": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=4": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "carries | r=8": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "carries | r=12": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "carries | r=16": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "carries | r=17": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=18": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=19": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=20": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=24": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=32": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=48": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "carries | r=64": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=4": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "full | r=8": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "full | r=12": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "full | r=16": {
+   "front": 32,
+   "back": 32,
+   "best": 32
+  },
+  "full | r=17": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=18": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=19": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=20": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=24": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=32": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=48": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  },
+  "full | r=64": {
+   "front": 0,
+   "back": 0,
+   "best": 0
+  }
+ },
+ "blind": {
+  "chmaj | rotations on": {
+   "seen_by_round": [
+    59,
+    17,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "first_round_none_seen": 3,
+   "last_round_any_seen": 2,
+   "seen_at_64": 0,
+   "seen_bit0_at_64": 0,
+   "exact_at_64": 0
+  },
+  "chmaj | rotations off": {
+   "seen_by_round": [
+    61,
+    49,
+    28,
+    18,
+    8,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "first_round_none_seen": null,
+   "last_round_any_seen": 64,
+   "seen_at_64": 2,
+   "seen_bit0_at_64": 2,
+   "exact_at_64": 2
+  },
+  "carries | rotations on": {
+   "seen_by_round": [
+    60,
+    7,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "first_round_none_seen": 3,
+   "last_round_any_seen": 2,
+   "seen_at_64": 0,
+   "seen_bit0_at_64": 0,
+   "exact_at_64": 0
+  },
+  "carries | rotations off": {
+   "seen_by_round": [
+    59,
+    24,
+    24,
+    6,
+    3,
+    2,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "first_round_none_seen": 8,
+   "last_round_any_seen": 11,
+   "seen_at_64": 0,
+   "seen_bit0_at_64": 0,
+   "exact_at_64": 0
+  },
+  "salt | rotations on": {
+   "seen_by_round": [
+    59,
+    8,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "first_round_none_seen": 3,
+   "last_round_any_seen": 2,
+   "seen_at_64": 0,
+   "seen_bit0_at_64": 0,
+   "exact_at_64": 0
+  },
+  "salt | rotations off": {
+   "seen_by_round": [
+    61,
+    24,
+    32,
+    13,
+    3,
+    2,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "first_round_none_seen": 8,
+   "last_round_any_seen": 11,
+   "seen_at_64": 0,
+   "seen_bit0_at_64": 0,
+   "exact_at_64": 0
+  }
+ }
+}

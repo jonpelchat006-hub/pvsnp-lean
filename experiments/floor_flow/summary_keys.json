@@ -1,0 +1,90 @@
+{
+  "instance_seed": 20261030,
+  "flow_runs": 8,
+  "summary": {
+    "16": {
+      "floor": 1.584962500721156,
+      "greedy": 11.18561845752491,
+      "karmarkar_karp": 6.1648981691103515,
+      "keys_exact": 1.584962500721156,
+      "keys_kk": 4.89964081076096,
+      "keys_flow": 6.911384987222146,
+      "keys_kk_beats_kk": 14,
+      "keys_kk_ties_kk": 16,
+      "keys_flow_beats_kk": 14,
+      "keys_kk_reaches_floor": 6
+    },
+    "20": {
+      "floor": 2.0,
+      "greedy": 14.57180568618547,
+      "karmarkar_karp": 9.807529214190932,
+      "keys_exact": 2.0,
+      "keys_kk": 7.640240405159187,
+      "keys_flow": 10.888687261674288,
+      "keys_kk_beats_kk": 24,
+      "keys_kk_ties_kk": 6,
+      "keys_flow_beats_kk": 8,
+      "keys_kk_reaches_floor": 0
+    },
+    "24": {
+      "floor": 3.0,
+      "greedy": 18.73913419118275,
+      "karmarkar_karp": 12.169241163146125,
+      "keys_exact": 3.0,
+      "keys_kk": 9.948353929884227,
+      "keys_flow": 13.63239184199805,
+      "keys_kk_beats_kk": 25,
+      "keys_kk_ties_kk": 5,
+      "keys_flow_beats_kk": 8,
+      "keys_kk_reaches_floor": 0
+    },
+    "28": {
+      "floor": 2.69615871138938,
+      "greedy": 22.11320604428019,
+      "karmarkar_karp": 15.602568813327593,
+      "keys_exact": 2.69615871138938,
+      "keys_kk": 13.076563345701118,
+      "keys_flow": 17.155873438246587,
+      "keys_kk_beats_kk": 27,
+      "keys_kk_ties_kk": 3,
+      "keys_flow_beats_kk": 3,
+      "keys_kk_reaches_floor": 0
+    },
+    "32": {
+      "floor": 3.084962500721156,
+      "greedy": 25.594491554990398,
+      "karmarkar_karp": 18.332891455900903,
+      "keys_exact": 3.084962500721156,
+      "keys_kk": 14.919123193895748,
+      "keys_flow": 21.569061741745188,
+      "keys_kk_beats_kk": 28,
+      "keys_kk_ties_kk": 2,
+      "keys_flow_beats_kk": 5,
+      "keys_kk_reaches_floor": 0
+    },
+    "36": {
+      "floor": 3.084962500721156,
+      "greedy": 29.909099061218395,
+      "karmarkar_karp": 21.792173183993057,
+      "keys_exact": 3.084962500721156,
+      "keys_kk": 18.158698571378736,
+      "keys_flow": 25.29898425263639,
+      "keys_kk_beats_kk": 25,
+      "keys_kk_ties_kk": 5,
+      "keys_flow_beats_kk": 3,
+      "keys_kk_reaches_floor": 0
+    },
+    "40": {
+      "floor": 3.245926548164837,
+      "greedy": 33.781843488513765,
+      "karmarkar_karp": 24.78938387605048,
+      "keys_exact": 3.245926548164837,
+      "keys_kk": 21.00727605046505,
+      "keys_flow": 28.6132765440625,
+      "keys_kk_beats_kk": 24,
+      "keys_kk_ties_kk": 6,
+      "keys_flow_beats_kk": 2,
+      "keys_kk_reaches_floor": 0
+    }
+  }
+}

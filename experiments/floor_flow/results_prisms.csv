@@ -1,0 +1,83 @@
+part,size,method,trial,work,extra,seconds
+double,6,brute force,0,4162,,0.0227
+double,6,meet in the middle,0,130,1,0.0014
+double,6,brute force,1,4162,,0.0227
+double,6,meet in the middle,1,130,1,0.0014
+double,6,brute force,2,4162,,0.0229
+double,6,meet in the middle,2,130,1,0.0015
+double,8,brute force,0,65794,,0.086
+double,8,meet in the middle,0,514,1,0.0014
+double,8,brute force,1,65794,,0.0911
+double,8,meet in the middle,1,514,1,0.0015
+double,8,brute force,2,65794,,0.0929
+double,8,meet in the middle,2,514,1,0.0014
+double,10,brute force,0,1049602,,0.529
+double,10,meet in the middle,0,2050,1,0.0022
+double,10,brute force,1,1049602,,0.4681
+double,10,meet in the middle,1,2050,1,0.0011
+double,10,brute force,2,1049602,,0.3984
+double,10,meet in the middle,2,2050,1,0.0013
+double,12,brute force,0,16781314,,2.0306
+double,12,meet in the middle,0,8194,1,0.0015
+double,12,brute force,1,16781314,,2.0822
+double,12,meet in the middle,1,8194,1,0.0018
+double,12,brute force,2,16781314,,2.4683
+double,12,meet in the middle,2,8194,1,0.0018
+double,14,meet in the middle,0,32770,1,0.0044
+double,14,meet in the middle,1,32770,1,0.0039
+double,14,meet in the middle,2,32770,1,0.004
+double,16,meet in the middle,0,131076,2,0.0182
+double,16,meet in the middle,1,131076,2,0.0149
+double,16,meet in the middle,2,131074,1,0.0138
+double,18,meet in the middle,0,524308,10,0.0898
+double,18,meet in the middle,1,524318,15,0.0934
+double,18,meet in the middle,2,524336,24,0.0916
+double,20,meet in the middle,0,2097678,263,0.7804
+double,20,meet in the middle,1,2097656,252,0.6828
+double,20,meet in the middle,2,2097674,261,0.608
+double,22,meet in the middle,0,8396742,4067,5.6227
+double,22,meet in the middle,1,8396770,4081,5.0197
+double,22,meet in the middle,2,8396960,4176,5.4612
+double,24,meet in the middle,0,33685594,65581,53.5772
+double,24,meet in the middle,1,33685854,65711,50.8425
+double,24,meet in the middle,2,33686060,65814,55.5075
+even-mansour,16,key search,0,131083,5,0.0037
+even-mansour,16,Daemen,0,1032,516,0.0004
+even-mansour,16,key search,1,131080,5,0.0027
+even-mansour,16,Daemen,1,1044,520,0.0004
+even-mansour,16,key search,2,131080,5,0.0027
+even-mansour,16,Daemen,2,1029,515,0.0003
+even-mansour,16,key search,3,131083,5,0.0027
+even-mansour,16,Daemen,3,1029,515,0.0003
+even-mansour,16,key search,4,131080,5,0.0027
+even-mansour,16,Daemen,4,1035,517,0.0003
+even-mansour,20,key search,0,2097163,5,0.0539
+even-mansour,20,Daemen,0,4107,2053,0.0005
+even-mansour,20,key search,1,2097163,5,0.0487
+even-mansour,20,Daemen,1,4110,2054,0.0007
+even-mansour,20,key search,2,2097160,5,0.0533
+even-mansour,20,Daemen,2,4104,2052,0.0006
+even-mansour,20,key search,3,2097166,5,0.058
+even-mansour,20,Daemen,3,4110,2054,0.0008
+even-mansour,20,key search,4,2097160,5,0.0581
+even-mansour,20,Daemen,4,4101,2051,0.0005
+even-mansour,24,key search,0,31457291,5,0.7964
+even-mansour,24,Daemen,0,49171,24585,0.0037
+even-mansour,24,key search,1,20971531,5,0.5424
+even-mansour,24,Daemen,1,16395,8197,0.0014
+even-mansour,24,key search,2,12582929,5,0.3263
+even-mansour,24,Daemen,2,16389,8195,0.0013
+even-mansour,24,key search,3,8388616,5,0.2912
+even-mansour,24,Daemen,3,49165,24583,0.0044
+even-mansour,24,key search,4,12582920,5,0.2941
+even-mansour,24,Daemen,4,16395,8197,0.0009
+even-mansour,28,Daemen,0,65544,32772,0.0028
+even-mansour,28,Daemen,1,65550,32774,0.0029
+even-mansour,28,Daemen,2,65541,32771,0.0028
+even-mansour,28,Daemen,3,65544,32772,0.0031
+even-mansour,28,Daemen,4,65541,32771,0.0028
+even-mansour,32,Daemen,0,786439,393221,0.0548
+even-mansour,32,Daemen,1,262158,131078,0.0191
+even-mansour,32,Daemen,2,262152,131076,0.0191
+even-mansour,32,Daemen,3,262152,131076,0.0188
+even-mansour,32,Daemen,4,262152,131076,0.0191
